@@ -19,3 +19,5 @@ foreach(char c in "beer") // c é a variável de iteração
 Console.WriteLine("C1");
 //COMENTARIO C2
 Console.WriteLine("C2");
+//COMENTARIO C5
+Console.WriteLine("C5");
